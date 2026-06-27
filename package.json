@@ -1,0 +1,26 @@
+{
+  "name": "theblackoutclause",
+  "version": "1.0.0",
+  "description": "Image upload API for TheBlackoutClause",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmadams03/TheBlackoutClause.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dmadams03/TheBlackoutClause/issues"
+  },
+  "homepage": "https://github.com/dmadams03/TheBlackoutClause#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  }
+}
